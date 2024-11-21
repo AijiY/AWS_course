@@ -8,7 +8,6 @@
 2. EC2の構築
 - インスタンス概要<br>
 ![image](./png/2.1-ec2_detail.png)
-<br>
 - セキュリティ<br>
 ![image](./png/2.2-ec2_security.png)
 <br>
@@ -16,7 +15,6 @@
 3. RDSの構築
 - 接続設定<br>
 ![image](./png/3.1-rds_connection.png)
-<br>
 - セキュリティ<br>
 ![image](./png/3.2-rds_security.png)
 <br>
