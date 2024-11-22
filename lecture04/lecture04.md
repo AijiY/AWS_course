@@ -17,7 +17,11 @@
 ![image](./png/3.1-rds_connection.png)
 - セキュリティ<br>
 ![image](./png/3.2-rds_security.png)
+- セキュリティ（インバウンド）<br>
+![image](./png/3.3-rds_security_inbound.png)
+- セキュリティ（アウトバウンド）<br>
+![image](./png/3.4-rds_security_outbound.png)
 <br>
 
-4. EC2からRDSへの接続
+1. EC2からRDSへの接続
 ![image](./png/4-connect_ec2_rds.png)
