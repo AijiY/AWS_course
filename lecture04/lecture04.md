@@ -23,5 +23,5 @@
 ![image](./png/3.4-rds_security_outbound.png)
 <br>
 
-1. EC2からRDSへの接続
+4. EC2からRDSへの接続
 ![image](./png/4-connect_ec2_rds.png)
